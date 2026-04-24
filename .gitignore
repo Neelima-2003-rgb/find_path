@@ -1,9 +1,6 @@
-__pycache__/
-*.pyc
-db.sqlite3
-.env
 venv/
-.env/
-*.log
+_pycache_/
+*.pyc
+.env
+db.sqlite3
 staticfiles/
-media/
